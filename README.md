@@ -6,7 +6,7 @@
 ---
 
 **How to Play**  
-1. Open `index.html` in a browser (or view it on [https://jolene1115.github.io/school-hours-p5js/](url) ).  
+1. Open `index.html` in a browser (or view it on [https://jolene1115.github.io/school-hours-p5js/](url)).  
 2. Click on options to make decisions throughout the school day.  
 3. Watch your points increase or decrease depending on your choices.
 
